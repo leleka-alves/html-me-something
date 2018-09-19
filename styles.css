@@ -8,7 +8,7 @@
     font-weight: 300px;
     margin: auto;
     padding: 5px;
-    
+    border-radius: 3px;
     }
 
 .footer {
@@ -91,14 +91,14 @@
 
 
 .line {
-    border-bottom: 1px solid purple;
+    border-bottom: 1px solid salmon;
     color: palevioletred;
     font-weight: 100;
     font-size: 22px;
     line-height: 24px;
-    padding: 35px;
+    padding: 2px;
     text-align: center;
-    width: 940px;
+    width: 999px;
     }
 
 .line2 {
@@ -157,7 +157,6 @@ table3 {
     display: inline;
     
 }
-
 
 .text {
     
@@ -247,9 +246,9 @@ table3 {
 .header_title {
     margin-left: 48px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: 20px;
+    font-size: 25px;
     font-weight: 500px;
-    color: whitesmoke;
+    color: salmon;
     text-align: left;
     padding-top: 25px;
 }
@@ -259,8 +258,28 @@ table3 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 11px;
     font-weight: 300px;
-    color: whitesmoke;
+    color: salmon;
     text-align: left;
     align-self: baseline;
     
 }
+
+.text_menu {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    letter-spacing: 0.05em;
+    color: white;
+    padding-top: 2px;
+    line-height: 24px;
+    text-align: right;
+    
+    
+}
+
+a:visited{
+    color: white;
+    
+}
+    
+
